@@ -8,3 +8,14 @@ Before running the script, ensure you have Python installed. Additionally, you n
 
 ```sh
 pip install matplotlib
+
+1. Output
+
+    ```bash
+    Enter the number of runs:3
+
+    Enter the number of elements:5
+
+    Enter the elements of the array:10 20 30 40 50
+
+    Enter the key element to be searched: 30
