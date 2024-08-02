@@ -13,3 +13,8 @@ Before running the script, ensure you have Python installed on your system.
    ```sh
    git clone <repository-url>
    cd <repository-directory>
+
+2. Output
+
+    ```bash
+    Enter the number of disks: 3 <Enter>
