@@ -7,4 +7,16 @@ This Python script performs a Binary search on user-provided arrays, measures th
 Before running the script, ensure you have Python installed. Additionally, you need to install the `matplotlib` library for plotting the results. You can install it using pip:
 
 ```sh
-pip install matplotlib
+pip install matplotlib 
+```
+
+1. Output
+
+    ```bash
+    Enter the number of runs:3
+
+    Enter the number of elements:5
+
+    Enter the elements of the array:10 20 30 40 50
+
+    Enter the key element to be searched: 30
